@@ -13,7 +13,7 @@ SPNet is an useful tool to predict locations of SP sources, which helps to monit
 
 - Windows 10
 
-### codes
+### Codes
 - SPinversion.py: The main program to train the SPNet with normalized SP signal with regarding sources. 
 - testdatasets.py: Codes for evaluating the SPNet with test datasets
 - plotdata.py: Example of 3D plot in this paper. In this code, the lab test dataset is used.
