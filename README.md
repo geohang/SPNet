@@ -22,7 +22,7 @@ SPNet is an useful tool to predict locations of SP sources, which helps to monit
 ## Dataset
 You can find the dataset used in this reserach at 
 ## Author
-You can contact author Hang Chen (hangchen@u.boisestate.edu)
+You can contact author [Hang Chen](https://sites.google.com/view/hangchen) (hangchen@u.boisestate.edu)
 
 ## Acknowledgments
 
