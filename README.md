@@ -10,8 +10,8 @@ SPNet is an useful tool to predict locations of SP sources, which helps to monit
 ### Dependencies
 
 - Download the python package described in *requirement.txt*.
-
 - Windows 10
+- Matlab 2020a
 
 ### Codes
 - SPinversion.py: The main program to train the SPNet with normalized SP signal with regarding sources. 
