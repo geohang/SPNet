@@ -20,7 +20,7 @@ SPNet is an useful tool to predict locations of SP sources, which helps to monit
 - Code for SP: 3D Forward modeling codes for SP signal generation by finite-infinite element coupling method.
 
 ## Dataset
-You can find the dataset used in this research at https://doi.org/10.5281/zenodo.5808277 
+You can find the dataset used in this research at https://doi.org/10.5281/zenodo.6781446
 ## Author
 You can contact author [Hang Chen](https://sites.google.com/view/hangchen) (hangchen@u.boisestate.edu)
 
